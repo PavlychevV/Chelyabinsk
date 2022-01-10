@@ -3,7 +3,7 @@
 ## About
 A survival RPG sandbox game, about helping Chelyabinsk government restore automatization and infrastructure in their city.
 
-*Game in not intended to insult anyone, including Chelyabinsk city, Chelyabinsk gov, Chelyabinsk citizens and especially our supreme president **Vladimir Putin**.
+*Game in not intended to insult anyone, including Chelyabinsk city, Chelyabinsk gov, Chelyabinsk citizens and especially our supreme president **Vladimir Putin**.*
 
 ## Genre
 - RPG
