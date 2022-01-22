@@ -17,3 +17,4 @@ Currently, a game is in alpha stage, so if there is a new build, don't be shy to
 
 ## Contacting
 Use this email to contact me about Issues `pavlychevv2008@gmail.com`.
+
