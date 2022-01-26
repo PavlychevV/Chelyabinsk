@@ -21,6 +21,8 @@ Use this email to contact me about Issues `pavlychevv2008@gmail.com`.
 ## ToDo
 - [X] Everything already in the game.
 - [X] Serialization (Saving).
+- [ ] Server/client blend.
+- [ ] Easy multiplayer client/server.
 - [ ] Worlds management.
 - [ ] Cheat codes, commands. 
 - [ ] Free survival mode.
