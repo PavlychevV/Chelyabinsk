@@ -22,8 +22,9 @@ Use this email to contact me about Issues `pavlychevv2008@gmail.com`.
 - [X] Everything already in the game.
 - [X] Server/client blend.
 - [ ] Serialization (Saving).
-- [ ] Easy multiplayer client/server.
+- [ ] Multiplayer P2P (only LAN, static ip with ports forwarded or VPN).
 - [ ] Worlds management.
+- [ ] Multiplayer via tunnel. (easy multiplayer worldwide)
 - [X] Cheat codes, commands. 
 - [ ] Free survival mode.
 - [ ] Story mode. 
