@@ -29,6 +29,6 @@ Use this email to contact me about Issues `pavlychevv2008@gmail.com`.
 - [ ] Free survival mode.
 - [ ] Story mode. 
 - [ ] Multiplayer.
-- [ ] Pre-release (Feb 23rd)
+- [X] Pre-release.
 - [ ] Mods, world-addons, texture-packs management. 
 - [ ] Improved commands, command blocks.
